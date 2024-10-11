@@ -35,3 +35,6 @@
 
 При обучении у модели были разморежены последние два слоя (layer3 и layer4).
 Так же использовался оптимизатор [Adam](https://pytorch.org/docs/stable/generated/torch.optim.Adam.html) и функция потерь [CrossEntropy](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html), для шедулинга lr использовался [StepLR](https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.StepLR.html) scheduler. При обучении целью было получить максимальное значение метрики [f1-score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html).
+
+
+Модель обучалась на [Kaggle](https://www.kaggle.com/) с использованием GPU P100.
