@@ -8,8 +8,9 @@
 
 ---
 Датасет: https://www.kaggle.com/datasets/markovka/car-dataset
----
+
 Веса модели: https://www.kaggle.com/datasets/markovka/final-model
+
 ---
 
 
