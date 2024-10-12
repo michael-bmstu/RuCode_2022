@@ -7,6 +7,8 @@
 ![](imgs/private_lb.jpg)                                   |
 
 ---
+Ноутбук: https://www.kaggle.com/code/markovka/rucode-2022
+
 Датасет: https://www.kaggle.com/datasets/markovka/car-dataset
 
 Веса модели: https://www.kaggle.com/datasets/markovka/final-model
